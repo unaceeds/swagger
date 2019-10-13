@@ -1,6 +1,6 @@
 # DefaultApi
 
-All URIs are relative to */simplecalcapi*
+All URIs are relative to *http://localhost:8080*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

@@ -26,7 +26,7 @@ import java.math.BigDecimal;
  * Output
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-10-13T15:16:45.729Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-10-13T16:08:05.207Z[GMT]")
 public class Output {
   @SerializedName("c")
   private BigDecimal c = null;

@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  * Output
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-10-13T15:16:37.985Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-10-13T16:07:57.515Z[GMT]")
 public class Output   {
   @JsonProperty("c")
   private BigDecimal c = null;
